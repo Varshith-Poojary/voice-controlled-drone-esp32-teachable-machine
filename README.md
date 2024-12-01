@@ -35,16 +35,13 @@ The following components are required for building the voice-controlled drone:
 ## Assembly Diagram  
 
 Below is the assembly diagram of the drone:  
+
 <img src="https://github.com/Varshith-Poojary/voice-controlled-drone-esp32-teachable-machine/blob/main/assembly.png" alt="assembly" width="600"/>
 
----
-
-## Assembly Notes  
-
-1. Place the MPU6050 at the center of the drone frame for accurate orientation sensing.  
-2. Mount the ESP32 securely above the MPU6050 for clear communication and wiring.  
-3. Attach ESCs and motors to the drone frame's arms, ensuring proper alignment of propellers.  
-4. Ensure balanced placement of the Li-Po battery under the frame to maintain the center of gravity.  
+#### Assembly Notes  
+1. Place the MPU6050 at the center of the drone frame for accurate orientation sensing.
+    
+3. Ensure balanced placement of the Li-Po battery under the frame to maintain the center of gravity.  
 
 ---
 
