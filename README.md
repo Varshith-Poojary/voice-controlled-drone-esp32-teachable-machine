@@ -40,8 +40,10 @@ Below is the assembly diagram of the drone:
 
 #### Assembly Notes  
 1. Place the MPU6050 at the center of the drone frame for accurate orientation sensing.
+   <img src="https://github.com/Varshith-Poojary/voice-controlled-drone-esp32-teachable-machine/blob/main/IMU_placement.png" alt="assembly" width="400"/>
+   <img src="https://github.com/Varshith-Poojary/voice-controlled-drone-esp32-teachable-machine/blob/main/IMU_placement.png" alt="assembly" width="400"/>
     
-3. Ensure balanced placement of the Li-Po battery under the frame to maintain the center of gravity.  
+2. Ensure balanced placement of the Li-Po battery under the frame to maintain the center of gravity.  
 
 ---
 
