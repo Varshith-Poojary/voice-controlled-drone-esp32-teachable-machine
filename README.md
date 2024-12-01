@@ -47,5 +47,37 @@ Below is the assembly diagram of the drone:
 
 ---
 
+## Predefined Commands  
+
+Below are the predefined commands and their corresponding **PWM values** for controlling the drone. These values can be edited to suit user preferences. The listed command names are the labeled names used in Teachable Machine for voice recognition, and they can be edited based on the labels you train your model with.
+
+These commands should be edited in the code to match the labels you define in Teachable Machine.
+
+| Command     | Pitch PWM | Roll PWM | Throttle PWM | Yaw PWM |
+|-------------|-----------|----------|--------------|---------|
+| **Turn on** | 1500      | 1500     | 1200         | 1500    |
+| **Switch off** | 1500   | 1500     | 1000         | 1500    |
+| **Hover**   | 1500      | 1500     | 1600         | 1500    |
+| **High**    | 1500      | 1500     | 1690         | 1500    |
+| **Low**     | 1500      | 1500     | 1300         | 1500    |
+| **Forward** | 1625      | 1500     | 1600         | 1500    |
+| **Backward**| 1330      | 1500     | 1600         | 1500    |
+| **Right**   | 1500      | 1625     | 1600         | 1500    |
+| **Left**    | 1500      | 1330     | 1600         | 1500    |
+| **Clock**   | 1500      | 1500     | 1600         | 1600    |
+| **Counter** | 1500      | 1500     | 1600         | 1400    |
+
+### Notes:
+- **Pitch PWM** controls the forward/backward tilt of the drone.
+- **Roll PWM** controls the left/right tilt.
+- **Throttle PWM** controls the altitude of the drone.
+- **Yaw PWM** controls the rotation of the drone.
+
+These values are preconfigured for smooth and responsive control. However, you can adjust these values according to your drone's specific requirements and hardware capabilities.
+
+The commands listed here correspond to the labels you assign to your voice commands in Teachable Machine. You **should edit** these commands in the code to match the labels you have trained your model with, providing flexibility in customizing the voice control commands for your drone.
+---
+
+
 
 
