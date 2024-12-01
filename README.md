@@ -24,16 +24,15 @@ The following components are required for building the voice-controlled drone:
 ---
 
 ## Circuit Diagram  
-
-![Circuit Diagram](https://github.com/Varshith-Poojary/voice-controlled-drone-esp32-teachable-machine/blob/main/circuit.png)
+<img src="(https://github.com/Varshith-Poojary/voice-controlled-drone-esp32-teachable-machine/blob/main/circuit.png)" alt="Control Board" width="500"/>
 
 ---
 
 ## Assembly Diagram  
 
 Below is the assembly diagram of the drone:  
+<img src="(https://github.com/Varshith-Poojary/voice-controlled-drone-esp32-teachable-machine/blob/main/assembly.png)" alt="Control Board" width="500"/>
 
-![Assembly Diagram](https://github.com/Varshith-Poojary/voice-controlled-drone-esp32-teachable-machine/blob/main/assembly.png)
 
 ---
 
