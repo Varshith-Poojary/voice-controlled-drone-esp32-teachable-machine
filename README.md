@@ -19,21 +19,13 @@ The following components are required for building the voice-controlled drone:
 6. **Propellers (4)**: 8x4.5 dimensions for lift generation.  
 7. **Li-Po Battery**: 5200mAh, 11.1V for powering the drone.  
 8. **Fly Sky FS-i6 Transmitter and Receiver**: For manual control of the drone.  
-9. **Additional Accessories**: Jumper wires, connectors, resistors, and a universal board.  
+9. **Additional Accessories**: LED, Jumper wires, connectors, resistors, and a universal board.  
 
 ---
 
 ## Circuit Diagram  
 
-**ESP32 Microcontroller**: Dual-core processor with Wi-Fi and Bluetooth capabilities for control and communication.  
-2. **MPU6050**: 3-axis accelerometer and gyroscope for orientation and stability.  
-3. **BLDC Motors (4)**: Brushless DC motors for drone propulsion.  
-4. **Electronic Speed Controllers (ESC) (4)**: To regulate the speed of BLDC motors.  
-5. **F450 Drone Frame**: Durable quadcopter frame with a 450mm wheelbase.  
-6. **Propellers (4)**: 8x4.5 dimensions for lift generation.  
-7. **Li-Po Battery**: 5200mAh, 11.1V for powering the drone.  
-8. **Fly Sky FS-i6 Transmitter and Receiver**: For manual control of the drone.  
-9. **Additional Accessories**: LED, Jumper wires, connectors, resistors, and a universal board. 
+![Circuit Diagram](https://github.com/Varshith-Poojary/voice-controlled-drone-esp32-teachable-machine/blob/main/circuit.png)
 
 ---
 
